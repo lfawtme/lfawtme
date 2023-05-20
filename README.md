@@ -1,9 +1,10 @@
 <h1 align="right">
- ✨✨ Hi there 👋 ,
-  I'm fateme. Welcome to my GitHub! ✨✨
+ 
  </h1>
   
-<div align="left">
+<div align="right">
+ ✨✨ Hi there 👋 ,
+  I'm fateme. Welcome to my GitHub! ✨✨
   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/940/original/giphy_2.gif?1680007908" width="300" height="300" />
 </div>
 
