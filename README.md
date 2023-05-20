@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">
+  ✨✨ Hi there 👋 , I'm fateme. Welcome to my GitHub! ✨✨
+ </h1>
+  
+<div align="center">
+  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/940/original/giphy_2.gif?1680007908" width="600" height="300" />
+</div>
+
+<hr />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lfawtme) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lfawtme) 
