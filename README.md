@@ -3,7 +3,7 @@
  </h1>
   
 <div align="center">
-  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/940/original/giphy_2.gif?1680007908" width="600" height="300" />
+  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/073/940/original/giphy_2.gif?1680007908" width="300" height="300" />
 </div>
 
 <hr />
